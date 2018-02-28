@@ -1,0 +1,223 @@
+has Kids
+interested in soccer
+interested in tennis
+interested in cricket
+ford
+toyota
+finder
+Alfa Romeo
+Alpina
+Aston Martin
+Audi
+Bentley
+BMW
+Citroen
+Dacia
+DS
+Ferrari
+Fiat
+Ford
+Honda
+Hyundai
+Infiniti
+Jaguar
+Jeep
+Kia
+Lamborghini
+Land Rover
+Lexus
+Lotus
+Maserati
+Mazda
+McLaren
+Mercedes
+MG
+Mini
+Mitsubishi
+Nissan
+Peugeot
+Porsche
+Renault
+Rolls-Royce
+Seat
+Skoda
+Smart
+SsangYong
+Subaru
+Suzuki
+Tesla
+Toyota
+Vauxhall
+Volkswagen
+Volvo
+General insurance
+21st Century Insurance
+AARP
+ACE Limited
+Acuity
+Elephant.com
+Admiral Life Insurance
+Aetna
+Aetna for life
+Affirmative Insurance
+Aflac
+Alleghany Corporation
+Allied Insurance
+Alfa
+Allstate
+American Automobile Association (AAA)
+American Family Insurance
+American Income Life Insurance Company
+American International Group (AIG)
+American National Insurance Company
+American Strategic Insurance (ASI)
+American Tri-Star Insurance Services
+Ameritas Life Insurance Company
+AMERICUS INSURANCE
+Amica Mutual Insurance
+Amtrust Financial Services
+Andy Insurance
+Applied Underwriters
+Arbella Insurance Group
+Assurity Life Insurance Company
+Auto-Owners Insurance
+AXA Equitable Life Insurance Company
+Azimuth risk solutions
+Bankers Life and Casualty Company
+Berkshire Hathaway
+Blue Advantage
+Brotherhood Mutual Insurance Company
+CareSource
+Central Insurance Companies
+Champ VA
+Chappell Insurance Services
+Chubb Corp
+Cigna Health Spring
+Cincinnati Insurance Company
+Civil Service Employees
+CNA Financial
+CNO Financial Group
+Colonial Life & Accident Insurance Company
+Combined Insurance
+Commerce Insurance Group
+Country Financial
+Country-Wide Insurance Company
+Delta Dental
+Elephant Auto Insurance
+Encompass Insurance Company
+Erie Insurance Group
+Esurance
+Evergreen USA RRG
+Farmers Insurance Group
+Federal Life Insurance Company
+Federated Mutual Insurance Company
+First Insurance Company of Hawaii
+FM Global
+GAINSCO
+GEICO
+General Re
+Genworth Financial
+Gerber Life Insurance Company
+Globe Life And Accident Insurance Company
+GMAC Insurance
+Gracy Title Company
+Grange Mutual Casualty Company
+The Guardian Life Insurance Company of America
+GuideOne Insurance
+Hanover Insurance
+The Hartford
+HCC Insurance Holdings
+Healthy Paws Pet Insurance & Foundation
+Hiscox Small Business Insurance
+Horace Mann Educators Corporation
+Homeowners Choice Property & Casualty Insurance Inc.,
+Inaam Abbasi Insurance Company (IAIC)
+Infinity Property & Casualty Corporation
+Insurance Panda
+InsureScan
+IntelliQuote Insurance Services
+Ironshore
+Jackson National Life
+John Hancock Insurance
+K&K Insurance
+Kansas City Life Insurance Company
+Kentucky Farm Bureau
+Knights of Columbus
+Lemonade (insurance)
+Liberty Mutual
+Lincoln National Corporation
+Manhattan Life Insurance Company
+Markel Corporation
+MassMutual
+Mass Health Insurance
+MBBS ( Mohtarma Bainzeer Bhutto Shaheed )
+Merchants Insurance Group
+Mercury Insurance Group
+MetLife
+MMG Insurance
+Modern Woodmen of America
+Mutual of Omaha
+National Life
+Nationwide Mutual Insurance Company
+New Jersey Manufacturers Insurance Company
+New York Life Insurance Company
+The Norfolk & Dedham Group
+Northwestern Mutual
+Ohio National Financial Services
+Omega
+OneBeacon
+Oxford Health Plans
+Pacific Life
+Pacificare
+PEMCO
+Penn Mutual
+Philadelphia Contributionship for the Insurance of Houses from Loss by Fire
+Philadelphia Insurance Companies
+Physicians Mutual
+Primerica
+Principal Financial Group
+Progressive
+ProSight Specialty Insurance
+Protective Life
+Prudential Financial
+Pure Insurance
+QBE
+The Regence Group
+Reliance Insurance Company
+RLI Corp.
+Safe Auto Insurance Company
+Safeco
+Safeway Insurance Group
+Securian Financial Group
+Selective Insurance
+Sentry Insurance
+Shelter Insurance
+Southern Aid and Insurance Company
+Southern Farm Bureau Life Insurance Company
+Standard Insurance Company
+State Auto Insurance Company
+State Farm Insurance
+Stillwater Insurance Group
+Sun Life Financial
+Symetra
+TIAA-CREF
+Transamerica Corporation
+The Producer's Group
+The Travelers Companies
+Tricare
+Tricare For Life
+TriWest
+Trupanion
+Unum
+USAA
+Vantage Health Plan
+Veteran Affairs
+Wellmed Healthcare Insurance
+West Bend Mutual Insurance
+West Coast Life
+Western & Southern Financial Group
+Western Mutual Insurance Group
+Westfield Insurance
+Westminster American Insurance Company
+White Mountains Insurance Group
+XL Catlin
